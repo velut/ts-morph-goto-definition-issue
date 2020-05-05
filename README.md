@@ -1,6 +1,6 @@
 ## Problem -  Go to definition
 
-Starting from the `adder` declaration found in the `project/dist/index.d.ts` file, find the `adder` declaration in the `project/src/index.ts` file by resolving the available declaration source map `project/dist/index.d.ts.map`.
+Starting from the `adder` declaration found in the `project/dist/index.d.ts` file, find the `adder` definition in the `project/src/index.ts` file by resolving the available declaration source map `project/dist/index.d.ts.map`.
 
 ```
 .
